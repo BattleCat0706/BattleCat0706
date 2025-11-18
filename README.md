@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @BattleCat0706
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently in the german Kursstufe with Mathematics, Physics and Computer Science as my main subjects.
 - 📫 How to reach me: battlcatt@gmail.com
 
 <!---
